@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing holiday screensaver"
+exit 0
