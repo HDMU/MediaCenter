@@ -1,0 +1,10 @@
+Package: enigma2-plugin-mediacenter-abstract.screensaver
+Version: 1.0
+Description: Abstract Screensaver for MediaCenter
+Section: mediacenter
+Priority: optional
+Maintainer: Ringo
+Architecture: sh4
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

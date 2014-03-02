@@ -1,0 +1,10 @@
+Package: enigma2-plugin-mediacenter-fantasie.screensaver
+Version: 1.0
+Description: Fantasie Screensaver for MediaCenter
+Section: mediacenter
+Priority: optional
+Maintainer: Ringo
+Architecture: sh4
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

@@ -1,0 +1,13 @@
+#!/bin/sh
+echo ""
+echo "Check if RECORD disk exist...."
+echo ""
+if [ ! -e /hdd/movie ]; then
+	echo "Sorry! No HDD found!!"
+	echo "Abort Installation..."
+	exit 1
+else
+	echo "HDD OK"
+fi
+echo "Install fantasie Screensaver ..."
+exit 0
